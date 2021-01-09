@@ -1,0 +1,12 @@
+/Users/stanpalyukhovich/Desktop/Sync From Stripe App/bin/Debug/netcoreapp3.1/Sync From Stripe App.deps.json
+/Users/stanpalyukhovich/Desktop/Sync From Stripe App/bin/Debug/netcoreapp3.1/Sync From Stripe App.runtimeconfig.json
+/Users/stanpalyukhovich/Desktop/Sync From Stripe App/bin/Debug/netcoreapp3.1/Sync From Stripe App.runtimeconfig.dev.json
+/Users/stanpalyukhovich/Desktop/Sync From Stripe App/bin/Debug/netcoreapp3.1/Sync From Stripe App.dll
+/Users/stanpalyukhovich/Desktop/Sync From Stripe App/bin/Debug/netcoreapp3.1/Sync From Stripe App.pdb
+/Users/stanpalyukhovich/Desktop/Sync From Stripe App/obj/Debug/netcoreapp3.1/Sync From Stripe App.csprojAssemblyReference.cache
+/Users/stanpalyukhovich/Desktop/Sync From Stripe App/obj/Debug/netcoreapp3.1/Sync From Stripe App.AssemblyInfoInputs.cache
+/Users/stanpalyukhovich/Desktop/Sync From Stripe App/obj/Debug/netcoreapp3.1/Sync From Stripe App.AssemblyInfo.cs
+/Users/stanpalyukhovich/Desktop/Sync From Stripe App/obj/Debug/netcoreapp3.1/Sync From Stripe App.csproj.CoreCompileInputs.cache
+/Users/stanpalyukhovich/Desktop/Sync From Stripe App/obj/Debug/netcoreapp3.1/Sync From Stripe App.dll
+/Users/stanpalyukhovich/Desktop/Sync From Stripe App/obj/Debug/netcoreapp3.1/Sync From Stripe App.pdb
+/Users/stanpalyukhovich/Desktop/Sync From Stripe App/obj/Debug/netcoreapp3.1/Sync From Stripe App.genruntimeconfig.cache
